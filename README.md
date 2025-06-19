@@ -21,7 +21,7 @@ A professional-grade phishing URL detector for Blue Teamers and threat analysts.
 - Batch Scanning & CSV Export  
 - Optional Interactive CLI Dashboard
 
-🔗 **Repo:** [Phishing Website Detector](https://github.com/Boaikely/phishing-detector)
+🔗 **Repo:** [Phishing Website Detector](https://github.com/Boaikely/Phishing-Website-Detector)
 
 ---
 
