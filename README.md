@@ -37,4 +37,4 @@ Monitors SSH login attempts in real time and blocks brute-force IPs using `iptab
 - IP Blocking
 - Alert Logging
 
-🔗 **Repo:** [SSH Brute Force Detector](https://github.com/Boaikely/ssh-brute-force-detector)
+🔗 **Repo:** [SSH Brute Force Detector](https://github.com/Boaikely/SSH-brute-Force-Detector-and-Alert-System)
